@@ -6,10 +6,10 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: ""
 
 # Website info
-title: Ghost
+title: Miheer's Travelogues
 description: The professional publishing platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
@@ -27,7 +27,7 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyllt # replace with your disqus username
+disqus_shortname: Miheer1107 # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
-repo: jasper2
+username: Miheer1107
+repo: Miheer1107.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+relative_source: ../Miheer1107.github.io/
+destination: ../Miheer1107.github.io-pages/
+production_url:  https://Miheer1107.github.io/Miheer1107.github.io/
+source_url:  https://github.com/Miheer1107/Miheer1107.github.io/
 
 exclude:
   - assets/css
