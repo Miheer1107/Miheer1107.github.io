@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 current: about
 title: About
 navigation: true
