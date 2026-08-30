@@ -16,7 +16,7 @@ Today marks the official start of my travel documentary. The weather was absolut
 
 Here is a shot from my first stop along the way:
 
-![My First Stop](/assets/images/travel-cover.jpg)
+<img src="{{ '/assets/images/travel-cover.jpg' | relative_url }}" alt="My First Stop">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin aliquam mauris, sit amet bibendum lectus. In non viverra nunc. Praesent tristique nulla quis nisl pretium maximus. Pellentesque augue turpis, ornare ut arcu nec, tristique condimentum lectus. Mauris vehicula diam eu orci blandit tempus id sed sem. Mauris non metus metus. Proin risus eros, luctus eu metus et, semper feugiat risus. Maecenas lacinia, libero sed tempor scelerisque, tortor elit feugiat ligula, quis tincidunt eros libero in odio.
 
