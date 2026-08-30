@@ -72,7 +72,7 @@ repo: Miheer1107.github.io
 branch: master
 relative_source: ../Miheer1107.github.io/
 destination: ../Miheer1107.github.io-pages/
-production_url:  https://Miheer1107.github.io
+production_url:  https://Miheer1107.github.io/Miheer1107.github.io
 source_url:  https://github.com/Miheer1107/Miheer1107.github.io/
 
 exclude:
